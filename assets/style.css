@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(9, 9, 9, 0.729);
+    background-color:darkblue;
 }
 main{
     text-align: center;
@@ -22,7 +22,7 @@ main{
 figure{
     width: 400px;
     height: 400px;
-    border-radius: 50%;
+    border-radius: 25%;
     overflow: hidden;
     margin: 0 auto;
 }
